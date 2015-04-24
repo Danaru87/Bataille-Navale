@@ -9,6 +9,9 @@ public class Main {
         BatailleNavale batailleNavale = new BatailleNavale();
 
         batailleNavale.CreerJoueur("Arnaud", "Da Silva");
+        batailleNavale.CreerJoueur("Maxime", "LAMARCHE");
+
+        batailleNavale.Lancer();
 
 
     }
